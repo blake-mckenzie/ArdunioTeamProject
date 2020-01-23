@@ -1,7 +1,7 @@
 // DHT11 sensor
 
 
-
+#include <Adafruit_Sensor.h>
 #include <DHT.h>
 
 #define DHTPIN 7 // what digital pin we're connected to
