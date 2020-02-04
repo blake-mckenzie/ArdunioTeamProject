@@ -1,5 +1,5 @@
 /*
- ###  simplest ever Arduino UNO digital clock  ###
+ ###  Not simple clock but thanks I guess lol  ###
 
  This clock needs only a 1602 LCD 2X16 and 2 push buttons 
 
