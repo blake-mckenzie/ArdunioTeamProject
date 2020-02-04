@@ -8,6 +8,7 @@
  No Potentiometer for contrast, no resistors for pull-up or backlight !!!!
 
  * The simplest clock ever made with a Arduino UNO *    
+ * Thank you for using my project lol #fortnite *
 
  Button Functions:
  
